@@ -1,0 +1,24 @@
+{
+  "name": "devpp11",
+  "version": "1.0.0",
+  "main": "techgun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalsaini1995/dev_pp_11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalsaini1995/dev_pp_11/issues"
+  },
+  "homepage": "https://github.com/vishalsaini1995/dev_pp_11#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
